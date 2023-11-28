@@ -29,6 +29,8 @@ Abre el archivo actividad_dos.ipynb y ejecuta el código por celdas
 
 Las siguientes dependecias son requeridas para poder correr este jupyter:
 - pandas
+- seaborn
+- matplotlib
 
 ## Licencia
 Este proyecto cuenta con la MIT License
